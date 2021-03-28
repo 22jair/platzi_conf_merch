@@ -48,3 +48,8 @@ firebase init
     * configure as a single-page app... : y
     * github.. : n
     * file dist/index.htmt... averwrite: n
+
+    // para obtener el token y poder hacer el deploy a firebase
+    *firebase login:ci
+
+    1//0hnU0MB-9BLtGCgYIARAAGBESNwF-L9IruY-TgRSDWR7qqTo38YsiUI2j6pc5osEJ6Gkc_fVB6BjliILNN2UbL51TOCDl6Yt3CVI      
